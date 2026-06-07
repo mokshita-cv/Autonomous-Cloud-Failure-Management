@@ -175,6 +175,23 @@ Generated visualizations include:
 * Action Distribution
 * Failure Outcome Analysis
 * Risk Score Distribution
+### Action Distribution
+
+The decision engine categorizes workloads into three actions: AUTO_HEAL, ALERT, and IGNORE.
+
+![Action Distribution](images/action_distribution.png)
+
+### Failure Outcomes by Action
+
+This visualization compares system decisions against actual workload failures.
+
+![Failure Outcomes](images/failure_outcomes.png)
+
+### Risk Score Distribution
+
+The risk score distribution illustrates how workload risk is spread across the dataset.
+
+![Risk Distribution](images/risk_distribution.png)
 
 ---
 
